@@ -3,13 +3,6 @@ License: MIT
 
 Welcome to the Crowd Funding Smart Contract repository! This project aims to provide a decentralized crowdfunding solution using the Ethereum blockchain and Solidity smart contracts. With this smart contract, users can create and participate in crowdfunding campaigns without the need for intermediaries, ensuring transparency, security, and trust in the fundraising process.
 
-Table of Contents
-Introduction
-Features
-How It Works
-Usage
-License
-
 Traditional crowdfunding platforms often involve centralized intermediaries that manage the funds raised, which can lead to issues like lack of transparency and high processing fees. This project addresses these concerns by providing a decentralized alternative powered by smart contracts on the Ethereum blockchain.
 
 This smart contract enables project creators to set up crowdfunding campaigns with specific funding goals and durations. Contributors can then participate in these campaigns by sending their contributions in Ether (ETH). When the funding goal is met within the specified duration, the campaign is deemed successful, and the funds are released to the project creator. If the goal is not met within the timeframe, contributors can reclaim their funds.
